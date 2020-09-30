@@ -10,6 +10,8 @@ namespace TestAppHSP
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hallo");
+            Console.ReadKey();
         }
     }
 }
