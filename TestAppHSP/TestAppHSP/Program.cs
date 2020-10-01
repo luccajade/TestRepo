@@ -12,6 +12,8 @@ namespace TestAppHSP
         {
             Console.WriteLine("Hallo");
             Console.ReadKey();
+            Console.WriteLine("Moin");
+            Console.ReadKey();
         }
     }
 }
